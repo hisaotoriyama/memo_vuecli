@@ -83,7 +83,7 @@ h1 {
   padding-left: 20px;
   border-radius: 5px;
   color: white;
-  background-color: skyblue; 
+  background-color: skyblue;
 }
 .edit-text {
   margin-left: 20px;
